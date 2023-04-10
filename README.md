@@ -9,5 +9,5 @@ The cipherTextAnalysis.java file is the malicious user's view, aka any third par
 
 To obtain accurate letter frequency results, you need a large body of text with approximately hundreds of thousands of words to feed into the encryption algorithm so i obtained my corpora of text from Project Gutenberg and gathered them all into a file called plainText.txt which is what will be used to run the letter frequency portion of the progam.
 
-Note before running program:
+Note:
 Make sure the cipherTextAnalysis.TXT file is EMPTY before running the file encryption portion to ensure accurate letter frequency results
